@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0015-3sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -19,4 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
