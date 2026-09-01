@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0027-remove-element/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
@@ -63,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
