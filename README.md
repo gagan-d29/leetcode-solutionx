@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0941-valid-mountain-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
