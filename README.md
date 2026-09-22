@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
+| [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0941-valid-mountain-array/) | Easy |
@@ -77,4 +78,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
