@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
@@ -39,6 +40,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sorting
@@ -78,6 +80,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
