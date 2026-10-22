@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0283-move-zeroes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
