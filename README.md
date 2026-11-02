@@ -23,6 +23,7 @@
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0941-valid-mountain-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0011-container-with-most-water/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
