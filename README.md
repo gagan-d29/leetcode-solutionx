@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0322-coin-change/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
