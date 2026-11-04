@@ -62,6 +62,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gagan-d29/leetcode-solutionx/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
