@@ -48,6 +48,7 @@
 | [0027-remove-element](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0283-move-zeroes/) | Easy |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
