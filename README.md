@@ -23,6 +23,7 @@
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0941-valid-mountain-array](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0941-valid-mountain-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
@@ -31,6 +32,7 @@
 | [0001-two-sum](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/gagan-d29/leetcode-solutionx/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/gagan-d29/leetcode-solutionx/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
